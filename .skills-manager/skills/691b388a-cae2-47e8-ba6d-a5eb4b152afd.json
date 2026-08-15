@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "691b388a-cae2-47e8-ba6d-a5eb4b152afd",
+  "path": "go-rawstring-sql-fix",
+  "path_key": "go-rawstring-sql-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

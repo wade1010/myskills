@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa9bfa99-c8ba-445a-b58b-d8bdfd036ed3",
+  "path": "fullstack-bugfix-verify",
+  "path_key": "fullstack-bugfix-verify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

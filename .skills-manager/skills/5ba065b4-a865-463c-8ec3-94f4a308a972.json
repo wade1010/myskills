@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5ba065b4-a865-463c-8ec3-94f4a308a972",
+  "path": "pptx-presentation-builder",
+  "path_key": "pptx-presentation-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
