@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1d90f0e-0fd4-40d4-b3e6-f14bafb0bcdc",
+  "path": "completeness-audit",
+  "path_key": "completeness-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

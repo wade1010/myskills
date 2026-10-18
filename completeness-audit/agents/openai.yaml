@@ -1,0 +1,6 @@
+interface:
+  display_name: "Completeness Audit"
+  short_description: "Audit product completeness with code evidence"
+  default_prompt: "Use $completeness-audit to inspect this app area for missing operational capabilities."
+policy:
+  allow_implicit_invocation: false
