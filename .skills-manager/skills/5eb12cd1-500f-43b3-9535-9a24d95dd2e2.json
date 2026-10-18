@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5eb12cd1-500f-43b3-9535-9a24d95dd2e2",
+  "path": "ts-proxy-stats-mock",
+  "path_key": "ts-proxy-stats-mock",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf64e137-be53-401e-8e87-82b4fe53e810",
+  "path": "ts-proxy-rt-cache-diag",
+  "path_key": "ts-proxy-rt-cache-diag",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

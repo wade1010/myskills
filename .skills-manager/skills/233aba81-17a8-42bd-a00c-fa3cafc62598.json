@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "233aba81-17a8-42bd-a00c-fa3cafc62598",
+  "path": "swarm-rolling-upgrade",
+  "path_key": "swarm-rolling-upgrade",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

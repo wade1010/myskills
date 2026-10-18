@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "63108471-1612-417a-9a58-7650c728f828",
+  "path": "ts-data-frontend-hmr-stale",
+  "path_key": "ts-data-frontend-hmr-stale",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

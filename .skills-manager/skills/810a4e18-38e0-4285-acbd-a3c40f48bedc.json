@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "810a4e18-38e0-4285-acbd-a3c40f48bedc",
+  "path": "ts-proxy-timezone-unify",
+  "path_key": "ts-proxy-timezone-unify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

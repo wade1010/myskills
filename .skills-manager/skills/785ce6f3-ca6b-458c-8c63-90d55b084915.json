@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "785ce6f3-ca6b-458c-8c63-90d55b084915",
+  "path": "ts-data-perf-diagnose",
+  "path_key": "ts-data-perf-diagnose",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

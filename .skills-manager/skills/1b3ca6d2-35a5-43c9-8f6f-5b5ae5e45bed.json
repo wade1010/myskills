@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b3ca6d2-35a5-43c9-8f6f-5b5ae5e45bed",
+  "path": "ts-proxy-add-admin-module",
+  "path_key": "ts-proxy-add-admin-module",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

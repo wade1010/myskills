@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c23f2f34-cf96-4ee8-bbbc-554c4e617b38",
+  "path": "ts-local-go-verify",
+  "path_key": "ts-local-go-verify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3665261c-3917-48df-877a-667cb49b415c",
+  "path": "ts-data-frontend-dual-request",
+  "path_key": "ts-data-frontend-dual-request",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

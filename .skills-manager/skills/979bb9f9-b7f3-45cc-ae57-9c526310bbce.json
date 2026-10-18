@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "979bb9f9-b7f3-45cc-ae57-9c526310bbce",
+  "path": "ts-data-jwt-auth",
+  "path_key": "ts-data-jwt-auth",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

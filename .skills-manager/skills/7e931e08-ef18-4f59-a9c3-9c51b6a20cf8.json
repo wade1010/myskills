@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e931e08-ef18-4f59-a9c3-9c51b6a20cf8",
+  "path": "ts-data-insert-err-diag",
+  "path_key": "ts-data-insert-err-diag",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

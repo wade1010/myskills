@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f1a8ee5-1704-4ba0-b273-141f1421c9bb",
+  "path": "ts-proxy-mysql-replica-recover",
+  "path_key": "ts-proxy-mysql-replica-recover",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

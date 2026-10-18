@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "56201d1a-bda7-4d4c-84e4-cbfa81bf6551",
+  "path": "vite-build-failure-triage",
+  "path_key": "vite-build-failure-triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

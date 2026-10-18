@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8bae890-f672-4326-b339-a468307ff2fe",
+  "path": "ts-data-async-await-diag",
+  "path_key": "ts-data-async-await-diag",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

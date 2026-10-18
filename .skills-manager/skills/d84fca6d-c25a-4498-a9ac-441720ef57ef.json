@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d84fca6d-c25a-4498-a9ac-441720ef57ef",
+  "path": "ts-data-completeness-issue-diag",
+  "path_key": "ts-data-completeness-issue-diag",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

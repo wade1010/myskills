@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe8ed20c-e4de-4666-a5cb-4edd92e2ed2b",
+  "path": "spec",
+  "path_key": "spec",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "tarrragon/claude-skills/spec",
+    "subpath": "spec",
+    "branch": null
+  }
+}

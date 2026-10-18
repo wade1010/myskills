@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "82538227-da90-4978-a552-91723712f842",
+  "path": "ts-proxy-build-publish",
+  "path_key": "ts-proxy-build-publish",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

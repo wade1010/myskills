@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd155648-1682-446d-89b6-0a8e1f9f15fa",
+  "path": "ts-data-batch-stuck-diagnose",
+  "path_key": "ts-data-batch-stuck-diagnose",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
